@@ -20,7 +20,7 @@ int main(void)
 	return 0;
 }
 
-//test,,,,
+//112
 
 void random_walk(int(*a)[COLS], int rows) /// this function assign values to 2d array
 {
